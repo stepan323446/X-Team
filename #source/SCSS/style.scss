@@ -19,6 +19,10 @@
     src: url("../fonts/ProximaNova-Light.ttf");
     font-weight: 400;
 }
+html
+{
+    overflow-x: hidden;
+}
 
 * {
     -webkit-box-sizing: border-box;
